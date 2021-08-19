@@ -1,0 +1,2 @@
+# Police-Station-Administrative-Management-Citizen-Assistance-System
+The basic idea behind the program is to reduce the workload of the police force of Pune City. So we developed a system to handle administrative jobs in a police station such as keeping a record of FIRs, previous arrests, criminals in custody, etc. Along with this, the citizen assistance system consisted of online FIR filing and finding the nearest police station.
